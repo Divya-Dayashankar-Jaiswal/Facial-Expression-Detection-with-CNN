@@ -1,2 +1,2 @@
-# Image-Classification-with-CNN
-Image Classification with CNN using Keras and OpenCV
+# Facial Expression Detection-CNN
+Facial Expression Detection with CNN using Keras and OpenCV
